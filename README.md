@@ -1,3 +1,6 @@
 # mustaeen ahmed
 
 hello! i'm mustaeen ahmed, a full-stack developer for the association for computing machinery and a computer science student at the university of central florida. i'm extremely passionate about application/web development and data analytics/visualization. 
+
+<img src="https://github-readme-stats.vercel.app/api?username=must108&hide_border=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Stats" width=400/> 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=must108&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
