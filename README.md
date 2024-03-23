@@ -4,7 +4,7 @@ hello! i'm mustaeen ahmed, a full-stack developer for the association for comput
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=must108&&style=flat-square" align="center" />
-</div
+</div>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=must108&layout=compact&hide_border=true&hide=html&show_icons=true&bg_color=020000&text_color=ffffff&icon_color=cba6f7&title_color=ffffff" alt="Stats" width=400/> 
