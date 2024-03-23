@@ -8,5 +8,5 @@ hello! i'm mustaeen ahmed, a full-stack developer for the association for comput
 
 <p align="center">
 <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=must108&layout=compact&hide_border=true&hide=html&show_icons=true&bg_color=020000&text_color=ffffff&icon_color=cba6f7&title_color=ffffff" alt="Stats"/> 
-<img height=200 src="http://github-readme-streak-stats.herokuapp.com/?user=must108&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt"Streak" />
+<img src="http://github-readme-streak-stats.herokuapp.com/?user=must108&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt"Streak" />
 </p>
