@@ -4,8 +4,12 @@ hello! i'm mustaeen ahmed, a full-stack developer for the association for comput
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=must108&&style=flat-square" align="center" />
-  <a src="https://www.linkedin.com/in/mustaeenahmed/"><img src="https://img.shields.io/badge/-mustaeenahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustaeenahmed/" align="center" /></a>
-  <a src="https://www.github.com/must108"><img src="https://img.shields.io/github/followers/must108?label=follow&style=social" align="center" /></a>
+  <a href="https://www.linkedin.com/in/mustaeenahmed/">
+    <img src="https://img.shields.io/badge/-mustaeenahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustaeenahmed/" align="center" />
+  </a>
+  <a href="https://www.github.com/must108">
+    <img src="https://img.shields.io/github/followers/must108?label=follow&style=social" align="center" />
+  </a>
 </div>
 <br>
 
