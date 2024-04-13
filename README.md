@@ -4,6 +4,9 @@ hello! i'm mustaeen ahmed, a full-stack developer for the association for comput
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=must108&&style=flat-square" align="center" />
+  <a href="https://wakatime.com/@018ed2fd-3e51-4094-9aed-f270538e625e">
+    <img src="https://wakatime.com/badge/user/018ed2fd-3e51-4094-9aed-f270538e625e.svg" align="center" alt="Total time coded since Apr 12 2024" />
+  </a>
   <a href="https://www.linkedin.com/in/mustaeenahmed/" >
     <img src="https://img.shields.io/badge/-mustaeenahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustaeenahmed/" align="center" />
   </a>
