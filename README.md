@@ -6,7 +6,9 @@ class me:
     profession = [ "software engineer", "student" ]
     major = "computer science"
     school = "university of central florida"
-    experience = ("software developer", "association for computing machinery")
+    experience = {
+        "software developer" : "association for computing machinery"
+    }
     passions = [
         "machine learning",
         "data analytics",
