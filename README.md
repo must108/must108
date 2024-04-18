@@ -17,8 +17,9 @@ class me:
         "application development"
     ]
 ```
-
+<div align="center">
 hello! my name is mustaeen ahmed, and i'm a software engineer and a computer science student at the university of central florida. i'm currently a software developer at the association for computing machinery, and i'm extremely passionate about machine learning, data analytics/visualization, and web/application development.
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=must108&&style=flat-square" align="center" />
