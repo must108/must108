@@ -1,6 +1,22 @@
 # mustaeen ahmed
 
-hello! i'm mustaeen ahmed, a software developer for the association for computing machinery and a computer science student at the university of central florida. i'm extremely passionate about application/web development and data analytics/visualization. 
+```python
+class me:
+    name = "mustaeen ahmed"
+    profession = [ "software engineer", "student" ]
+    major = "computer science"
+    school = "university of central florida"
+    experience = ("software developer", "association for computing machinery")
+    passions = [
+        "machine learning",
+        "data analytics",
+        "data visualization",
+        "web development",
+        "application development"
+    ]
+```
+
+hello! my name is mustaeen ahmed, and i'm a software engineer and a student majoring in computer science at the university of central florida. i'm currently a software developer at the association for computing machinery, and i'm extremely passionate about machine learning, data analytics/visualization, and web/application development.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=must108&&style=flat-square" align="center" />
