@@ -3,7 +3,7 @@
 ```python
 class me:
     name = "mustaeen ahmed"
-    profession = [ "software engineer", "student" ]
+    profession = "software engineer"
     major = "computer science"
     school = "university of central florida"
     experience = {
