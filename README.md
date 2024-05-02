@@ -29,7 +29,7 @@ hello! my name is mustaeen ahmed, and i'm a software engineer and a computer sci
   <a href="https://www.linkedin.com/in/mustaeenahmed/" >
     <img src="https://img.shields.io/badge/-mustaeenahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustaeenahmed/" align="center" />
   </a>
-    <a href="https://discordid.netlify.app/?id=385903323666055178" target="_blank" >
+    <a href="https://discordid.netlify.app/?id=385903323666055178" >
         <img src="https://img.shields.io/badge/-must108-5865F2?style=flat-square&logo=Discord&logoColor=white&link=discord.com%2Fusers%2F385903323666055178" align="center" />
     </a>
   <a href="https://www.github.com/must108" >
