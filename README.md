@@ -24,7 +24,7 @@ hello! my name is mustaeen ahmed, and i'm a software engineer and a computer sci
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=must108&&style=flat-square" align="center" />
   <a href="https://wakatime.com/@018ed2fd-3e51-4094-9aed-f270538e625e">
-    <img src="https://wakatime.com/badge/user/018ed2fd-3e51-4094-9aed-f270538e625e.svg" align="center" alt="wakatime" />
+    <img src="https://wakatime.com/badge/user/018ed2fd-3e51-4094-9aed-f270538e625e.svg" align="center" />
   </a>
   <a href="https://www.linkedin.com/in/mustaeenahmed/" >
     <img src="https://img.shields.io/badge/-mustaeenahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustaeenahmed/" align="center" />
