@@ -7,7 +7,7 @@ class me:
     major = "computer science"
     school = "university of central florida"
     experience = {
-        "telecommunications software engineer": "darden",
+        "software engineer": "darden",
         "software developer" : "association for computing machinery"
     }
     passions = [
