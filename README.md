@@ -7,6 +7,8 @@ class me:
     major = "computer science"
     school = "university of central florida"
     experience = {
+        "software engineer intern": "leidos",
+        "software developer": "knighthacks",
         "software engineer": "darden",
         "software developer" : "association for computing machinery"
     }
