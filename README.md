@@ -8,7 +8,7 @@ class me:
     school = "university of central florida"
     experience = {
         "software engineer intern": "leidos",
-        "software developer": "knighthacks",
+        "software engineer": "knighthacks",
         "software engineer": "darden",
         "software developer" : "association for computing machinery"
     }
