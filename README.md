@@ -42,7 +42,7 @@ hello! my name is mustaeen ahmed, and i'm a software engineer and a computer sci
 <br>
 
 <p align="center">
-  <img height=196 src="https://github-readme-stats.vercel.app/api/top-langs/?username=must108&layout=compact&hide_border=true&hide=html,jupyter%20notebook,c%23,ShaderLab&show_icons=true&bg_color=020000&text_color=ffffff&icon_color=cba6f7&title_color=ffffff&exclude_repo=lc-solutions" alt="Stats"/> 
+  <img height=196 src="https://github-readme-stats.vercel.app/api/top-langs/?username=must108&layout=compact&hide_border=true&hide=html,jupyter%20notebook,c%23,ShaderLab&show_icons=true&bg_color=020000&text_color=ffffff&icon_color=cba6f7&title_color=ffffff&exclude_repo=lc-solutions,tex-docs" alt="Stats"/> 
 <!-- </p>
   <img src="http://github-readme-streak-stats.herokuapp.com/?user=must108&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt"Streak" />
 </p>
