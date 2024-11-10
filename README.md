@@ -9,7 +9,7 @@ class me:
     experience = {
         "software engineer intern": "leidos",
         "software engineer": "knighthacks",
-        "software engineer": "darden",
+        "software engineer intern": "darden",
         "software developer" : "association for computing machinery"
     }
     passions = [
