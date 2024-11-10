@@ -10,7 +10,8 @@ class me:
         "software engineer intern": "leidos",
         "software engineer": "knighthacks",
         "software engineer intern": "darden",
-        "software developer" : "association for computing machinery"
+        "software developer" : "association for computing machinery",
+        "software engineer intern": "orange county public schools"
     }
     passions = [
         "machine learning",
