@@ -11,7 +11,7 @@ class me:
         "software engineer intern": "leidos",
         "software engineer": "knighthacks",
         "software engineer intern": "darden",
-        "software developer": "association for computing machinery",
+        "software engineer": "association for computing machinery",
         "software engineer intern": "orange county public schools",
         "software engineer intern": "kelly",
         "software engineer": "itch.io"
