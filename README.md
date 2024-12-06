@@ -14,7 +14,7 @@ class me:
         "software engineer": "association for computing machinery",
         "software engineer intern": "orange county public schools",
         "software engineer intern": "kelly",
-        "software engineer": "itch.io"
+        "software engineer intern": "itch.io"
     }
     passions = [
         "machine learning",
