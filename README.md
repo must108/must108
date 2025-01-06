@@ -7,9 +7,10 @@ class me:
     major = "computer science"
     school = "university of central florida"
     experience = {
-        "software engineer intern": "cae",
-        "researcher": "ucf ece",
         "software engineer intern": "leidos",
+        "software engineer intern": "cae",
+        "software engineer intern": "gamesthatwork",
+        "machine learning researcher": "ucf ece",
         "software engineer": "knighthacks",
         "software engineer intern": "darden",
         "software engineer": "association for computing machinery",
