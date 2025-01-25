@@ -13,5 +13,5 @@
 
 * swe @ leidos, fhwa, cae, gamesthatwork, knighthacks
 * ml research @ ucf ece, robotics lab
-* prev. swe @ darden, acm, ocps, kelly, itch.io
+* prev. swe @ randstad, darden, acm, ocps, kelly, itch.io
 * student @ ucf
