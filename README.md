@@ -13,5 +13,5 @@
 
 * swe @ ideaflow, knighthacks
 * prev. swe @ morgan stanley, leidos, usdot, randstad, darden, cae, gamesthatwork, acm, ocps, kelly, itch.io
-* prev. ml research @ ucf ece, robotics lab
+* prev. ml research intern @ ucf ece, robotics lab
 * student @ ucf
