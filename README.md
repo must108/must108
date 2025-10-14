@@ -11,7 +11,7 @@
 </div>
 <br />
 
-* swe @ ucf ist/varlab, ucf med, fast enterprises, ideaflow, knighthacks, gpk
+* swe @ ucf ist/varlab, ucf med, ideaflow, knighthacks, gpk
 * mle @ netc, iat lab/ucf cecs
 * prev. swe @ morgan stanley, leidos, usdot, randstad, darden, cae, gamesthatwork, acm, ocps, tabs chocolate, kelly, itch.io
 * prev. mle @ robotics lab/ucf ece
