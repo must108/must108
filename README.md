@@ -12,7 +12,6 @@
 <br />
 
 * swe @ ucf ist/varlab, ucf med, knight hacks
-* mle @ netc, iat lab/ucf cecs
 * prev. swe @ morgan stanley, leidos, ideaflow, usdot, randstad, darden, cae, gtw, ocps, kelly, itch.io
-* prev. mle @ robotics lab/ucf ece
+* prev. mle @ netc, iat lab/ucf cecs, robotics lab/ucf ece
 * student @ ucf
