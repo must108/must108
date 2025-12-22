@@ -12,7 +12,7 @@
 <br />
 
 * incoming swe @ cloudflare
-* swe @ handshake, doe, ucf ist/varlab, knight hacks
-* prev. swe @ morgan stanley, leidos, ideaflow, usdot, darden, cae, ocps, kelly
+* swe @ handshake, doe, ist, knight hacks
+* prev. swe @ morgan stanley, leidos, ideaflow, usdot, darden, cae, ocps
 * prev. mle @ netc, robotics lab/ucf ece
 * student @ ucf
