@@ -13,6 +13,6 @@
 
 * incoming swe @ cloudflare
 * swe @ handshake, doe, ucf ist/varlab, knight hacks
-* prev. swe @ morgan stanley, leidos, ideaflow, usdot, darden, cae, gtw, ocps, kelly
+* prev. swe @ morgan stanley, leidos, ideaflow, usdot, darden, cae, ocps, kelly
 * prev. mle @ netc, robotics lab/ucf ece
 * student @ ucf
