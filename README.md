@@ -11,7 +11,7 @@
 </div>
 <br />
 
-* swe @ cloudflare, knight hacks
+* swe @ cloudflare, creol, knight hacks
 * prev. swe @ morgan stanley, handshake, leidos, ideaflow, ornl, usdot, darden, ist, cae, ocps, otc
 * prev. mle @ netc, nsf
 * student @ ucf
