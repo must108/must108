@@ -10,8 +10,7 @@
   </a>
 </div>
 <br />
-
-* swe @ cloudflare 
-* prev. swe @ morgan stanley, handshake, leidos, ideaflow, ornl, usdot, darden, ist, cae, creol, knight hacks, ocps, otc
+ 
+* prev. swe @ cloudflare, morgan stanley, handshake, leidos, ideaflow, ornl, usdot, darden, ist, cae, creol, knight hacks, ocps, otc
 * prev. mle @ netc, nsf
 * student @ ucf
