@@ -11,6 +11,4 @@
 </div>
 <br />
  
-* prev. swe @ cloudflare, morgan stanley, handshake, leidos, ideaflow, ornl, usdot, darden, ist, cae, creol, knight hacks, ocps, otc
-* prev. mle @ netc, nsf
-* student @ ucf
+<img width="480" height="314" alt="angry" src="https://github.com/user-attachments/assets/6a163ede-579e-4424-9179-1fd0df2c010b" />
