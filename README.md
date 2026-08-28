@@ -11,4 +11,4 @@
 </div>
 <br />
  
-<img width="480" height="314" alt="angry" src="https://github.com/user-attachments/assets/6a163ede-579e-4424-9179-1fd0df2c010b" />
+<img width="240" height="240" alt="funny" src="https://github.com/user-attachments/assets/5fe0cfc1-1641-48f1-a26c-23d2c5d3520e" />
