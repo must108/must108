@@ -11,4 +11,6 @@
 </div>
 <br />
  
-<img width="240" height="240" alt="funny" src="https://github.com/user-attachments/assets/5fe0cfc1-1641-48f1-a26c-23d2c5d3520e" />
+<!-- <img width="240" height="240" alt="funny" src="https://github.com/user-attachments/assets/5fe0cfc1-1641-48f1-a26c-23d2c5d3520e" /> -->
+<img width="165" height="165" alt="young sheldon" src="https://github.com/user-attachments/assets/c222477e-0999-47bf-8ab3-a927e4e42644" />
+
